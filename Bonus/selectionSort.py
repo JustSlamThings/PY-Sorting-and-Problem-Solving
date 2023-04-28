@@ -25,3 +25,4 @@ sample_list = [5, 8, 1, 22, 18, 6, 2]
 print(f"Unsorted list: {sample_list}")
 selection_sort(sample_list)
 print(f"Sorted list: {sample_list}")
+            
